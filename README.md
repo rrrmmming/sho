@@ -1,5 +1,5 @@
 # sho
-# Ingress Enlightened SHINYURIGAOKA
+## Enl SHINYURI
 
                                               `
                                             ::::
@@ -89,5 +89,5 @@
 
 ## Overview
 
-It is OK to use freely. 
+It is OK to use freely.
 ╭( ･ㅂ･)و﻿ ｳｪｰｲ!!
